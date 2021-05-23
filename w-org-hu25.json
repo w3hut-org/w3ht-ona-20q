@@ -1,0 +1,182 @@
+[
+    {
+        "id"            : 18,
+        "name"          : "Gravity core",
+        "description"   : "Space is for everybody. It’s not just for a few people in science or math, or for a select group of astronauts. That’s our new frontier out there, and it’s everybody’s business to know about space.",
+        "author"        : "Wallhut",
+        "color"         : "#4154A6",
+        "premium"       : false,
+        "category"      : "Space",
+        "image"         : "https://raw.githubusercontent.com/w3hut-org/whu3xyz-re/main/18.png"
+    },
+    {
+        "id"            : 17,
+        "name"          : "Astronaut",
+        "description"   : "The Earth is the cradle of humanity, but mankind cannot stay in the cradle forever.",
+        "author"        : "Wallhut",
+        "color"         : "#D7317E",
+        "premium"       : false,
+        "category"      : "Space",
+        "image"         : "https://raw.githubusercontent.com/w3hut-org/whu3xyz-re/main/17.png"
+    },
+    {
+        "id"            : 16,
+        "name"          : "Seeker",
+        "description"   : "When you look at the stars and the galaxy, you feel that you are not just from any particular piece of land, but from the solar system.",
+        "author"        : "Wallhut",
+        "color"         : "#3985C6",
+        "premium"       : false,
+        "category"      : "Space",
+        "image"         : "https://raw.githubusercontent.com/w3hut-org/whu3xyz-re/main/16.png"
+    },
+    {
+        "id"            : 15,
+        "name"          : "Seeker",
+        "description"   : "When you look at the stars and the galaxy, you feel that you are not just from any particular piece of land, but from the solar system.",
+        "author"        : "Wallhut",
+        "color"         : "#98499B",
+        "premium"       : false,
+        "category"      : "Space",
+        "image"         : "https://raw.githubusercontent.com/w3hut-org/whu3xyz-re/main/15.png"
+    },
+    {
+        "id"            : 14,
+        "name"          : "Seeker",
+        "description"   : "When you look at the stars and the galaxy, you feel that you are not just from any particular piece of land, but from the solar system.",
+        "author"        : "Wallhut",
+        "color"         : "#98499B",
+        "premium"       : false,
+        "category"      : "Space",
+        "image"         : "https://raw.githubusercontent.com/w3hut-org/whu3xyz-re/main/14.png"
+    },
+    {
+        "id"            : 13,
+        "name"          : "Seeker",
+        "description"   : "When you look at the stars and the galaxy, you feel that you are not just from any particular piece of land, but from the solar system.",
+        "author"        : "Wallhut",
+        "color"         : "#4A2F88",
+        "premium"       : false,
+        "category"      : "Space",
+        "image"         : "https://raw.githubusercontent.com/w3hut-org/whu3xyz-re/main/13.png"
+    },
+    {
+        "id"            : 12,
+        "name"          : "Splended",
+        "description"   : "The habit patterns of the human mind are very strong and make it seem that the hard way is easy and the easy way is hard.",
+        "author"        : "Wallhut",
+        "color"         : "#191247",
+        "premium"       : false,
+        "category"      : "Pattern",
+        "image"         : "https://raw.githubusercontent.com/w3hut-org/whu3xyz-re/main/12.png"
+    },
+    {
+        "id"            : 11,
+        "name"          : "Splend",
+        "description"   : "Time is an encoded pattern of fabric woven with information & energy.",
+        "author"        : "Wallhut",
+        "color"         : "#4D2C70",
+        "premium"       : false,
+        "category"      : "Pattern",
+        "image"         : "https://raw.githubusercontent.com/w3hut-org/whu3xyz-re/main/11.png"
+    },
+    {
+        "id"            : 1,
+        "name"          : "Praise",
+        "description"   : "There's a sunrise and a sunset every single day, and they're absolutely free. Don't miss so many of them.",
+        "author"        : "Wallhut",
+        "color"         : "#392D64",
+        "premium"       : false,
+        "category"      : "Scenery",
+        "image"         : "https://raw.githubusercontent.com/w3hut-org/whu3xyz-re/main/1.png"
+    },
+    {
+        "id"            : 2,
+        "name"          : "Glimmer",
+        "description"   : "Ô, Sunlight! The most precious gold to be found on Earth.",
+        "author"        : "Wallhut",
+        "color"         : "#C15878",
+        "premium"       : false,
+        "category"      : "Scenery",
+        "image"         : "https://raw.githubusercontent.com/w3hut-org/whu3xyz-re/main/2.png"
+    },
+    {
+        "id"            : 3,
+        "name"          : "Gleam",
+        "description"   : "Ô, Sunlight! The most precious gold to be found on Earth.",
+        "author"        : "Wallhut",
+        "color"         : "#640628",
+        "premium"       : false,
+        "category"      : "Scenery",
+        "image"         : "https://raw.githubusercontent.com/w3hut-org/whu3xyz-re/main/3.png"
+    },
+    {
+        "id"            : 4,
+        "name"          : "Take care",
+        "description"   : "Our bodies are our gardens, to the which our wills are gardeners.",
+        "author"        : "Wallhut",
+        "color"         : "#E24198",
+        "premium"       : false,
+        "category"      : "Typography",
+        "image"         : "https://raw.githubusercontent.com/w3hut-org/whu3xyz-re/main/4.png"
+    },
+    {
+        "id"            : 5,
+        "name"          : "Say yes",
+        "description"   : "You must go on adventures to find out where you truly belong.",
+        "author"        : "Wallhut",
+        "color"         : "#1B1617",
+        "premium"       : false,
+        "category"      : "Typography",
+        "image"         : "https://raw.githubusercontent.com/w3hut-org/whu3xyz-re/main/5.png"
+    },
+    {
+        "id"            : 6,
+        "name"          : "Creative",
+        "description"   : "Creativity doesn't wait for that perfect moment. It fashions its own perfect moments out of ordinary ones.",
+        "author"        : "Wallhut",
+        "color"         : "#302F82",
+        "premium"       : false,
+        "category"      : "Typography",
+        "image"         : "https://raw.githubusercontent.com/w3hut-org/whu3xyz-re/main/6.png"
+    },
+    {
+        "id"            : 7,
+        "name"          : "Will be ok",
+        "description"   : "Good things are coming down the road, just don’t stop walking.",
+        "author"        : "Wallhut",
+        "color"         : "#761240",
+        "premium"       : false,
+        "category"      : "Typography",
+        "image"         : "https://raw.githubusercontent.com/w3hut-org/whu3xyz-re/main/7.png"
+    },
+    {
+        "id"            : 8,
+        "name"          : "You can do it",
+        "description"   : "You can do what you have to do, and sometimes you can do it even better than you think you can.",
+        "author"        : "Wallhut",
+        "color"         : "#337E88",
+        "premium"       : false,
+        "category"      : "Typography",
+        "image"         : "https://raw.githubusercontent.com/w3hut-org/whu3xyz-re/main/8.png"
+    },
+    {
+        "id"            : 9,
+        "name"          : "Hard work",
+        "description"   : "What is success? I think it is a mixture of having a flair for the thing that you are doing; knowing that it is not enough, that you have got to have hard work and a certain sense of purpose.",
+        "author"        : "Wallhut",
+        "color"         : "#2D293B",
+        "premium"       : false,
+        "category"      : "Typography",
+        "image"         : "https://raw.githubusercontent.com/w3hut-org/whu3xyz-re/main/9.png"
+    },
+    {
+        "id"            : 10,
+        "name"          : "Splendid",
+        "description"   : "All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns.",
+        "author"        : "Wallhut",
+        "color"         : "#1E3C50",
+        "premium"       : false,
+        "category"      : "Pattern",
+        "image"         : "https://raw.githubusercontent.com/w3hut-org/whu3xyz-re/main/10.png"
+    }
+]
